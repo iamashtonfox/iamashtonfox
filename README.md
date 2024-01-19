@@ -1,6 +1,6 @@
 # Hi, I'm Ashton!
 
-I am a soon-to-be graduate of Boston University passionate about cybersecurity and user safety.
+I am a soon-to-be graduate of Boston University passionate about cybersecurity, AI, and user safety. I have experience in full-stack, frontend, and backend designing websites, servers, and applications, and the main languages that I work in are C, Java, and Python.
 
 ### You can find out more about me on [my website](https://iamashtonfox.github.io/)
 
